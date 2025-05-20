@@ -1,6 +1,6 @@
 ---
 title: "Tarea 5. Diferenciación e integración numérica."
-author: "Mi nombre"
+author: Daniel Heriberto Guzmán Fuentes 
 format: 
   html:
     grid: 
